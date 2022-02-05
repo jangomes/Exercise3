@@ -1,0 +1,16 @@
+C:\Users\jan_n\source\repos\Exercise1Question3\bin\Debug\net5.0\Exercise1Question3.exe
+C:\Users\jan_n\source\repos\Exercise1Question3\bin\Debug\net5.0\Exercise1Question3.deps.json
+C:\Users\jan_n\source\repos\Exercise1Question3\bin\Debug\net5.0\Exercise1Question3.runtimeconfig.json
+C:\Users\jan_n\source\repos\Exercise1Question3\bin\Debug\net5.0\Exercise1Question3.runtimeconfig.dev.json
+C:\Users\jan_n\source\repos\Exercise1Question3\bin\Debug\net5.0\Exercise1Question3.dll
+C:\Users\jan_n\source\repos\Exercise1Question3\bin\Debug\net5.0\ref\Exercise1Question3.dll
+C:\Users\jan_n\source\repos\Exercise1Question3\bin\Debug\net5.0\Exercise1Question3.pdb
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\Exercise1Question3.csproj.AssemblyReference.cache
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\Exercise1Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\Exercise1Question3.AssemblyInfoInputs.cache
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\Exercise1Question3.AssemblyInfo.cs
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\Exercise1Question3.csproj.CoreCompileInputs.cache
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\Exercise1Question3.dll
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\ref\Exercise1Question3.dll
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\Exercise1Question3.pdb
+C:\Users\jan_n\source\repos\Exercise1Question3\obj\Debug\net5.0\Exercise1Question3.genruntimeconfig.cache
